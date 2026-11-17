@@ -8,7 +8,7 @@ Formado em **Desenvolvimento Web (2025)** com mais de 5 anos de experiência pr�
 
 ### 🚀 Projetos em Destaque no Ar
 
-* 📦 **[Controle de Estoque — Autopeças](https://workers.dev):** Mini-ERP com compras, vendas, fluxo de caixa e emissão de DANFE fictício.
+* 📦 **[Controle de Estoque — Autopeças](https://controle-estoque-autopecas.ricardomonteiro.workers.dev/):** Mini-ERP com compras, vendas, fluxo de caixa e emissão de DANFE fictício.
 * 🚗 **[Auto Peças & Mecânica RM](https://workers.dev):** Landing page com gerador de orçamentos para o WhatsApp.
 * 🌐 **[Portfólio Profissional](https://github.io):** Vitrine de projetos e habilidades.
 
