@@ -16,12 +16,9 @@ Formado em **Desenvolvimento Web (2025)** com mais de 5 anos de experiência pr�
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
-![GitHub Pages](https://shields.io)
-![Cloudflare](https://shields.io)
+* **Desenvolvimento Web:** `HTML5` • `CSS3` • `JavaScript (ES6+)` • `DOM Manipulation` • `LocalStorage`
+* **Versionamento & Deploy:** `Git` • `GitHub` • `GitHub Pages` • `Cloudflare Workers/Pages`
+* **Sistemas & Regras de Negócio:** `ERP Linux` • `ERP TOTVS` • `Rotinas Fiscais (NF-e / GNRE / ICMS)`
 
 ---
 
